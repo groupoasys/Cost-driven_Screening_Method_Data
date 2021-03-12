@@ -31,9 +31,9 @@ If you want to cite the papers [[1]](https://ieeexplore.ieee.org/abstract/docume
 
 * Article:
 ```
-@INPROCEEDINGS{8848991,
+@ARTICLE{porras2021cost,
   author={Á. {Porras}, S. {Pineda}, J. M. {Morales} and A. {Jiménez-Cordero}},
-  title={Cost-driven Screening of Line-flow Constraints forthe Unit Commitment Problem}, 
+  title={Cost-driven Screening of Line-flow Constraints for the Unit Commitment Problem}, 
   year={2021},
   volume={},
   number={},
