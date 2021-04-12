@@ -35,7 +35,7 @@ If you want to cite the papers [1] or this repository, [[2]](https://github.com/
 * Article:
 ```
 @article{porras2021cost,
-  author={Á. {Porras}, S. {Pineda}, J. M. {Morales} and A. {Jiménez-Cordero}},
+  author={\'A. {Porras}, S. {Pineda}, J. M. {Morales} and A. {Jim\'enez-Cordero}},
   title={Cost-driven Screening of Line-flow Constraints for the Unit Commitment Problem}, 
   year = {2021},
   note = {Available soon}},
