@@ -23,7 +23,7 @@ capacity and generating units have been conveniently modified. More details abou
   * [Net Demands](https://drive.google.com/file/d/1GizpZEclZ_xQo0rBum5LSnZlHFtlnT49/view?usp=sharing)
  
 ## References 📚
-[1] Paper: Cost-driven Screening of Line-flow Constraints for the Unit Commitment Problem.
+[1] Á. Porras, S. Pineda, J. M. Morales and A. Jiménez-Cordero "Cost-driven Screening of Line-flow Constraints for the Unit Commitment Problem." To be submitted. Available soon.
 
 [2] OASYS, Data of 5-node and 2000-node Power Systems, Github repository (https://github.com/groupoasys/Cost-driven_Screening_Method_Data) , 2021
 
@@ -34,13 +34,12 @@ If you want to cite the papers [1] or this repository, [[2]](https://github.com/
 
 * Article:
 ```
-@ARTICLE{porras2021cost,
+@article{porras2021cost,
   author={Á. {Porras}, S. {Pineda}, J. M. {Morales} and A. {Jiménez-Cordero}},
   title={Cost-driven Screening of Line-flow Constraints for the Unit Commitment Problem}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-1},}
+  year = {2021},
+  note = {Available soon}},
+  }
 ```
 
 * Repository:
@@ -68,7 +67,7 @@ year = {2021}
 
  ## License 📝
  
-    Copyright 2020 Optimization and Analytics for Sustainable energY Systems (OASYS)
+    Copyright 2021 Optimization and Analytics for Sustainable energY Systems (OASYS)
 
     Licensed under the GNU General Public License, Version 3 (the "License");
     you may not use this file except in compliance with the License.
