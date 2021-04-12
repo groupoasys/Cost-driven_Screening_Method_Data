@@ -23,7 +23,7 @@ capacity and generating units have been conveniently modified. More details abou
   * [Net Demands](https://drive.google.com/file/d/1GizpZEclZ_xQo0rBum5LSnZlHFtlnT49/view?usp=sharing)
  
 ## References 📚
-[1] Paper: Cost-driven Screening of Line-flow Constraints forthe Unit Commitment Problem.
+[1] Paper: Cost-driven Screening of Line-flow Constraints for the Unit Commitment Problem.
 
 [2] OASYS, Data of 5-node and 2000-node Power Systems, Github repository (https://github.com/groupoasys/Cost-driven_Screening_Method_Data) , 2021
 
