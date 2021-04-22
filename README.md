@@ -2,7 +2,7 @@
 
 ## Goals 🚀
 
-The aim of this repository is to provide the details of the power systems data set used in papers [1]. This article have been developed by some members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you to visit the related links to know more our research 😉
+The aim of this repository is to provide the details of the power systems data set used in papers [1](https://arxiv.org/abs/2104.05746). This article have been developed by some members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you to visit the related links to know more our research 😉
 
 ## Contents 🌌
 
@@ -23,23 +23,23 @@ capacity and generating units have been conveniently modified. More details abou
   * [Net Demands](https://drive.google.com/file/d/1GizpZEclZ_xQo0rBum5LSnZlHFtlnT49/view?usp=sharing)
  
 ## References 📚
-[1] Á. Porras, S. Pineda, J. M. Morales and A. Jiménez-Cordero "Cost-driven Screening of Line-flow Constraints for the Unit Commitment Problem." To be submitted. Available soon.
+[1] Á. Porras, S. Pineda, J. M. Morales and A. Jiménez-Cordero "Cost-driven Screening of Line-flow Constraints for the Unit Commitment Problem," arXiv preprint arXiv:2104.05746, 2021.
 
 [2] OASYS, Data of 5-node and 2000-node Power Systems, Github repository (https://github.com/groupoasys/Cost-driven_Screening_Method_Data) , 2021
 
 ## How to cite the repository and the paper? 📝
 
-If you want to cite the papers [1] or this repository, [[2]](https://github.com/groupoasys/Cost-driven_Screening_Method_Data
+If you want to cite the papers [1](https://arxiv.org/abs/2104.05746) or this repository, [[2]](https://github.com/groupoasys/Cost-driven_Screening_Method_Data
 ), please use the following bib entries:
 
 * Article:
 ```
 @article{porras2021cost,
-  author={\'A. {Porras}, S. {Pineda}, J. M. {Morales} and A. {Jim\'enez-Cordero}},
-  title={Cost-driven Screening of Line-flow Constraints for the Unit Commitment Problem}, 
-  year = {2021},
-  note = {Available soon}
-  }
+  title={Cost-driven Screening of Network Constraints for the Unit Commitment Problem},
+  author={{\'A}. Porras, S. Pineda, J. M. Morales and A. Jim{\'e}nez-Cordero,
+  journal={arXiv preprint arXiv:2104.05746},
+  year={2021}
+}
 ```
 
 * Repository:
