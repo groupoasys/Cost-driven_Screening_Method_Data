@@ -16,13 +16,13 @@ This data set contains net demands per node, and besides, information about gene
   * [Net Demands](https://drive.google.com/file/d/1wCOYypnlDXI3w4Crn0Jz0hQl9rNeYKTd/view?usp=sharing)
 
 - For the 2000-node system, net demand profiles for each node are synthetically derived from the nominal demand presented in the [repository](https://github.com/power-grid-lib/pglib-opf). It should be noted that the nominal parameters regarding the line
-capacity and generating units have been conveniently modified. More details about these changes can be found in the paper [1]. Each data file is linked below:
+capacity and generating units have been conveniently modified. More details about these changes can be found in the paper [[1]](https://arxiv.org/abs/2104.05746). Each data file is linked below:
 
   * [Generating Units](https://drive.google.com/file/d/1HxqOgR0JzHEohWF_wJVEwRYRyGWfOtgW/view?usp=sharing)
   * [Lines](https://drive.google.com/file/d/1xdmdiqdm5IduEyGiekc2yffQnnMnuJ4Z/view?usp=sharing)
   * [Net Demands](https://drive.google.com/file/d/1GizpZEclZ_xQo0rBum5LSnZlHFtlnT49/view?usp=sharing)
  
-Additionally, we have included a section in the paper [[1]](https://arxiv.org/abs/2104.05746) evaluating the performance of the proposed approach againts topological changes in the 2000-bus system. Thus, in the following link, you can find information about the corridor lines and the ones we used in our experiments. More details are given in the paper [[1]](https://arxiv.org/abs/2104.05746). [Corridor Lines](https://drive.google.com/file/d/10u3ZnJEqvUjJOdiFlJ0JwOsuHgIka87u/view?usp=sharing)
+Additionally, we have included a section in the paper [[1]](https://arxiv.org/abs/2104.05746) evaluating the performance of the proposed approach againts topological changes in the 2000-node system. Thus, in the following link, you can find information about the corridor lines and the ones we used in our experiments. More details are given in the paper [[1]](https://arxiv.org/abs/2104.05746). [Corridor Lines](https://drive.google.com/file/d/10u3ZnJEqvUjJOdiFlJ0JwOsuHgIka87u/view?usp=sharing)
   
 ## References 📚
 [1] Á. Porras, S. Pineda, J. M. Morales and A. Jiménez-Cordero "Cost-driven Screening of Line-flow Constraints for the Unit Commitment Problem," arXiv preprint arXiv:2104.05746 (https://arxiv.org/abs/2104.05746), 2021.
